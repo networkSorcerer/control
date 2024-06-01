@@ -3,7 +3,7 @@ package exam_while;
 import java.util.Scanner;
 
 public class GugudanExample {
-	public static void main(String []args) {
+	public static void main (String [] args) {
 		int n;
 		int i = 1;
 		Scanner input = new Scanner(System.in);
@@ -22,5 +22,5 @@ public class GugudanExample {
 		}
 		
 		input.close();
-	}
-}
+	};
+};
